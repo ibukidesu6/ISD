@@ -17,7 +17,7 @@
           "quickstart"
         ]
       }
-    ],
+    ,{"group": "Core concepts","pages": ["core-concepts/link-canvas-5"]},{"group": "Templates","pages": ["templates/lp"]},{"group": "Help","pages": ["help/untitled-page"]}],
     "global": {
       "anchors": [
         {
